@@ -2,4 +2,12 @@ using System;
 
 namespace ConsoleApp1
 {
-class
+class program
+{
+  static void Main(string[] args)
+  {
+    Console.WriteLine ("Hello World");
+  }
+}
+}
+    
